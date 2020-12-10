@@ -1,2 +1,3 @@
-# beam-section2
+# Java beam-section2
+
 Beam Tutorial
